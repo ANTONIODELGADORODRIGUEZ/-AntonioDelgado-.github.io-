@@ -13,5 +13,6 @@ Docentes de cursos llevados este semestre:
 - Persona Familia y Matrimonio: Carolina Dianderas Cáceres
 
 Compañeros:
-Fabián Delgado 
+Fabián Delgado
+
 Diego Quispe 
