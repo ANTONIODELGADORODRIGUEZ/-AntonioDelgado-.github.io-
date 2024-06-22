@@ -1,4 +1,4 @@
-**Hola Mi nombre es Antonio Delgado y...**
+<title>**Hola Mi nombre es Antonio Delgado y...**
 
 Acerca de mi:
 Estudiante de "Administración de Negocios" de la UCSP, actualmente cursando el V semestre. Disfruto mucho la variedad de cursos que tiene mi carrera y el poder aprender de computación. Estudié mi primaria y secundaria en el Colegio San José de Arequipa, nací el 11/01/2005. Disfruto mucho el hacer deporte y el poder relacionarme con gente.
